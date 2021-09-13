@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvtuta
 - 👀 I’m interested in php, laravel, nodejs, javascript, vuejs and react. 
-- 🌱 I’m currently learning Laravel and vuejs
+- 🌱 I’m currently learning Laravel and react
 - 💞️ I’m looking to collaborate on Web and API development.
 - 📫 How to reach me joaovoliveira2399@gmail.com
 
